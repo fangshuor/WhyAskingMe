@@ -1,0 +1,14 @@
+# Local Claude Code / agent state — never published
+.claude/
+
+# Scratch and checkpoint files
+/scratch/
+PROGRESS.md
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
